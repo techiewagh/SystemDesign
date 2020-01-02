@@ -1,0 +1,2 @@
+https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
